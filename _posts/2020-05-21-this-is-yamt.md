@@ -1,6 +1,6 @@
 ---
 title: Hi! My name is Sangeun Seo
-layout: post
+layout: home
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
 description: "I'm a M.S. Student at DGIST, working with Dr. Jean Song as a member of DIAG."
