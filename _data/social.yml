@@ -7,5 +7,5 @@ social:
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/seseo98'}
   - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/sangeun-seo-853b2b314/'}
   
-  - {icon: 'envelope', type: "solid", link: 'seseo98@dgist.ac.kr'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:seseo98@dgist.ac.kr'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
