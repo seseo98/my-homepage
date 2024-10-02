@@ -1,29 +1,13 @@
 ---
 title: Hi! My name is Sangeun Seo
-layout: home
+layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
 description: "I'm a M.S. Student at DGIST, working with Dr. Jean Song as a member of DIAG."
 ---
 
-I'm a M.S. Student at DGIST, working with Dr. Jean Song as a member of DIAG.
+I'm a Master's candidate in Electrical Engineering and Computer Science at DGIST, South Korea. My research interests lie in human-computer interaction and human-AI interaction in the learning process. Specifically, my research focuses on identifying the best educational technologies and making them easily accessible to everyone through cutting-edge AI technology. Before starting my Master's, I completed my Bachelor's degree in Computer Science and Engineering at UNIST, South Korea.
 
-* hello
-{:toc}
-
-## Features 
-- Minimal and clean design.
-- Fully modular: activate and load only what you really need.
-- Works great on mobile and smaller screens.
-- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
-- [Google Analytics](https://www.google.com/analytics/) support.
-- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
-- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
-- [RSS](https://github.com/jekyll/jekyll-feed) support.
-- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
-
-## Installation
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#installation).
-
-## Customization
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#customize).
+## Research Keywords
+- Human-Computer-Interaction (HCI), Human-AI Interaction (HAI), Large Language Models (LLM), 
+AI-Enhanced Learning Systems, Personalized Learning Technologies
