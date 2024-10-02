@@ -1,24 +1,17 @@
 ---
-title: Getting Started
+title: First Publish!
 layout: post
-categories: [How-To, Markdown]
-image: /assets/img/airplane.jpg
-#gif: mygif
+categories: [Full Paper, Second author]
+image: /first_paper.png
 description: "Let's get this theme to work!"
-customexcerpt: "Learn how to write a post in YAMT."
+customexcerpt: "Exploring Intervention Techniques to Alleviate Negative Emotions during Video Content Moderation Tasks as a Worker-centered Task Design."
 ---
 
-### Front Matter
-Example of a full Front Matter:
-{% highlight yaml %}
-title: Hello World   
-layout: post
-categories: [Hello, World]
-tags: [hello, world]
-image: /assets/img/helloworld.jpg
-gif: mygif (Only write the name of the file. No extension. The files needs to be in "/assets/gif")
-description: "Say hello to the world!"
-customexcerpt: "Custom excerpt for the homepage"
-{% endhighlight %}
+### Authors
+Dokyun Lee, Sangeun Seo, Chanwoo Park, Sunjun Kim, Buru Chang, and Jean Y. Song.
 
-Tags can be used but are pretty much useless, as related posts use categories.
+## Name
+"Exploring Intervention Techniques to Alleviate Negative Emotions during Video Content Moderation Tasks as a Worker-centered Task Design." 
+
+## Conference
+In Proceedings of the ACM Conference on Designing Interactive Systems (DIS 2024).
