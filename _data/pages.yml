@@ -1,5 +1,5 @@
 pages:
-  - {name: 'About', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
+  # - {name: 'About', url: 'about.html'}
+  # - {name: 'Contact', url: 'contact.html'}
   - {name: 'DIAG', url: 'https://diag.kr/'}
   - {name: 'CV', url: 'CV_Sangeun Seo.pdf'}
