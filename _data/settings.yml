@@ -4,7 +4,8 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Sangeun Seo
+  text: Yet Another Minimal Theme
+
 #Nav 
 nav:
   pages:
