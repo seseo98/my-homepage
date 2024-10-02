@@ -8,4 +8,4 @@ social:
   - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/sangeun-seo-853b2b314/'}
   
   - {icon: 'envelope', type: "solid", link: 'mailto:seseo98@dgist.ac.kr'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
+  # - {icon: 'rss', type: "solid", link: "/feed.xml"}
